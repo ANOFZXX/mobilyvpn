@@ -17,6 +17,21 @@
          "name": "TRUE-OPENLAND-TH-01-FREE",
          "url": "iy7aaiTb5t4LkFSiDniuflN7eSWwzvcuf6AvfO7JzmROcJpNFJKDeeCz+r5kt1u3exj/wHb2WPv2WQu3p9OFbjvh14sUhU0z0rqTiOGsLtE="
       }
+,
+{
+         "name": "AIS-GAME-TH-01-VIP",
+         "url": "vkrSrTNZbb48PQ5gYR0cBM6fN9F6djI425kkfhUMnbGYslePajWnbzaGCXeMiYybuZx7a7pjCgXnS2Yh04BNfoIvxXTT7pQCbEZ+RepvJBBWQbdm"
+      }
+,
+{
+         "name": "DTAC-GAME-TH-01-VIP",
+         "url": "09kv3J60ptdq5Zo4rekdkAaTD31hUxBv7VMOYY+D4LUNlkhn9gVt3ezs8aTjsDM5KI4E6D7GXl3LKhoePSMs3EVOWnn4B8JlcBXxxaTaB+5IUtK+"
+      }
+,
+{
+         "name": "TRUE-GAME-TH-01-VIP",
+         "url": "BfJrx/lbdSbLMAUMWiqm1tCNXgvJQIy2htMiNzu+4whe9pVu/z7VvaxR3nrTID4ECksJnXJlj8Fn7vH3A7Tx5VpDdJiXXHMTxQtTHLwV7u17aoRX"
+      }
 
 
    ],
@@ -46,5 +61,5 @@ https://m.me/ANOFZX
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":1
+   "version":2
 }
