@@ -125,33 +125,18 @@
       }
 ,
 {
-         "name": "VIP-ONLINE-Thailand -01-AIS",
+         "name": "AIS-ONLINE-Thailand -01-VIP",
          "url": "O0xxQTHF7ncG1U3XlTRM+YYv6tIo0+07IK4X9Y/Zldr1KbVb9urMa4DoNYVtZWZMe988z2YYJmwHhQQbYX+cA8G5fPAl01hA6kzN1A=="
       }
 ,
 {
-         "name": "VIP-ONLINE-Thailand -01-DTAC",
+         "name": "DTAC-ONLINE-Thailand -01-VIP",
          "url": "XzNIImx1IvydeHDil2g2FkRybTcKGtTJh3dLGke8BwJ5Ih1/OQmwmwDyRVqoRn01/nMtNKz9OofZXi8naPaaCM0TXglcTVCCTAnbKQ=="
       }
 ,
 {
-         "name": "VIP-ONLINE-Thailand -01-TRUE",
+         "name": "TRUE-ONLINE-Thailand -01-VIP",
          "url": "+w0rz2tBCvYoEV0NuNOrML26RW2utOU9P85GpLfcyaP+GUw2BoDK8vPHWP5xDf308998Rrw3zzi1Yz9yqTFCRSAIuGN9dsP5m/b2fg=="
-      }
-,
-{
-         "name": "VIP-NET-Thailand -01-AIS",
-         "url": "+EMJX3GMeOl7tQD24XJ/Mm5OECfbdeV9S8u/79WlAEBMdemU2hHLBaUkJgrRrPbv8YDWEwFSKmvOwin/63BPmXyUZlZRHxjlnqRs0A=="
-      }
-,
-{
-         "name": "VIP-NET-Thailand -01-DTAC",
-         "url": "u85uNvAjyvygIRlcgHlcTU6RddlNvuVlc+od/YB/x+dnjeluo6YShlIPjlLlthAkcH4Z37FM0e9mUjFvgEsK+UoWlnGIYGKqtfz4zg=="
-      }
-,
-{
-         "name": "VIP-NET-Thailand -01-TRUE",
-         "url": "+hHmUQbP8D78Y3MfwnQwbRSe+O0QqkRNQ9065bznKfekeORtlEg1BMsnRUCfrd6kpnyXUHZVLly9vj59nLoQNPV/ZlKrz5IPspv2VFg=="
       }
 ,
 {
@@ -213,6 +198,21 @@
          "name": "TRUE-GAMING-Thailand -04-FREE",
          "url": "Nqe1dGX1q6cOsHvZDBdtXt+p7DvSmzVGVU36+SjykzQRNlyLfF1uhGb18ecolSOUKhw31bvWBOcSLSGzepal1hPWlt37w5JO8MnYXNtcjAM="
       }
+,
+{
+         "name": "AIS-NET-Thailand -01-VIP",
+         "url": "+EMJX3GMeOl7tQD24XJ/Mm5OECfbdeV9S8u/79WlAEBMdemU2hHLBaUkJgrRrPbv8YDWEwFSKmvOwin/63BPmXyUZlZRHxjlnqRs0A=="
+      }
+,
+{
+         "name": "DTAC-NET-Thailand -01-VIP",
+         "url": "u85uNvAjyvygIRlcgHlcTU6RddlNvuVlc+od/YB/x+dnjeluo6YShlIPjlLlthAkcH4Z37FM0e9mUjFvgEsK+UoWlnGIYGKqtfz4zg=="
+      }
+,
+{
+         "name": "TRUE-NET-Thailand -01-VIP",
+         "url": "+hHmUQbP8D78Y3MfwnQwbRSe+O0QqkRNQ9065bznKfekeORtlEg1BMsnRUCfrd6kpnyXUHZVLly9vj59nLoQNPV/ZlKrz5IPspv2VFg=="
+      }
  
 
 
@@ -220,7 +220,7 @@
 "message":"
 ❗️รีเซิร์ฟเวอร์01:00น.ทุกๆวัน
 
-🔔Update 23/6/2023
+🔔Update 25/6/2023
 🐧ผู้พัฒนา:SURIYA SOODSANG
 🔊ระบบเพิ่มเซิร์ฟเวอร์อัตโนมัติ
 🌍ใช้งานได้ทุกรูปแบบ
@@ -246,5 +246,5 @@
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":8
+   "version":9
 }
