@@ -125,18 +125,33 @@
       }
 ,
 {
-         "name": "AIS-ONLINE-Thailand -01-VIP",
+         "name": "VIP-ONLINE-Thailand -01-AIS",
          "url": "O0xxQTHF7ncG1U3XlTRM+YYv6tIo0+07IK4X9Y/Zldr1KbVb9urMa4DoNYVtZWZMe988z2YYJmwHhQQbYX+cA8G5fPAl01hA6kzN1A=="
       }
 ,
 {
-         "name": "DTAC-ONLINE-Thailand -01-VIP",
+         "name": "VIP-ONLINE-Thailand -01-DTAC",
          "url": "XzNIImx1IvydeHDil2g2FkRybTcKGtTJh3dLGke8BwJ5Ih1/OQmwmwDyRVqoRn01/nMtNKz9OofZXi8naPaaCM0TXglcTVCCTAnbKQ=="
       }
 ,
 {
-         "name": "TRUE-ONLINE-Thailand -01-VIP",
+         "name": "VIP-ONLINE-Thailand -01-TRUE",
          "url": "+w0rz2tBCvYoEV0NuNOrML26RW2utOU9P85GpLfcyaP+GUw2BoDK8vPHWP5xDf308998Rrw3zzi1Yz9yqTFCRSAIuGN9dsP5m/b2fg=="
+      }
+,
+{
+         "name": "VIP-NET-Thailand -01-AIS",
+         "url": "+EMJX3GMeOl7tQD24XJ/Mm5OECfbdeV9S8u/79WlAEBMdemU2hHLBaUkJgrRrPbv8YDWEwFSKmvOwin/63BPmXyUZlZRHxjlnqRs0A=="
+      }
+,
+{
+         "name": "VIP-NET-Thailand -01-DTAC",
+         "url": "u85uNvAjyvygIRlcgHlcTU6RddlNvuVlc+od/YB/x+dnjeluo6YShlIPjlLlthAkcH4Z37FM0e9mUjFvgEsK+UoWlnGIYGKqtfz4zg=="
+      }
+,
+{
+         "name": "VIP-NET-Thailand -01-TRUE",
+         "url": "+hHmUQbP8D78Y3MfwnQwbRSe+O0QqkRNQ9065bznKfekeORtlEg1BMsnRUCfrd6kpnyXUHZVLly9vj59nLoQNPV/ZlKrz5IPspv2VFg=="
       }
 ,
 {
@@ -203,13 +218,16 @@
 
    ],
 "message":"
-🔔Update 23/6/2023
-💰ผู้พัฒนา:SURIYA SOODSANG
-🔊ระบบเพิ่มเซิร์ฟเวอร์อัตโนมัติ
-📱ใช้งานได้ทุกรูปแบบ
+❗️รีเซิร์ฟเวอร์01:00น.ทุกๆวัน
 
-🌍รายละเอียดเซิร์ฟเวอร์
-●ONLINE[ใช้งานทั่วไป+เล่นเกม]
+🔔Update 23/6/2023
+🐧ผู้พัฒนา:SURIYA SOODSANG
+🔊ระบบเพิ่มเซิร์ฟเวอร์อัตโนมัติ
+🌍ใช้งานได้ทุกรูปแบบ
+
+⚠️รายละเอียดเซิร์ฟเวอร์
+●ONLINE[เช่า][ใช้งานทั่วไป+เล่นเกม]
+●NET[เช่า][ใช้งานทั่วไป+เล่นเกม]
 ●GAMING[เฉพาะเกมเท่านั้น]
 ●SOCIAL[ใช้งานทั่วไป]
 ●YOUTUBE[ใช้งานทั่วไป]
@@ -219,14 +237,14 @@
 📕True FREE NO pro
 📘Dtac FREE NO pro
 
-🏡strength 
+📌strength 
 ●ปกปิดตัวตนของคุณ
 ●ไม่เก็บข้อมูลส่วนตัวไดๆ
 ●ไม่มีการดึงข้อมูล
 
-❤ขอให้สนุกกับการใช้งานครับ
+🤍ขอให้สนุกกับการใช้งานครับ
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":7
+   "version":8
 }
