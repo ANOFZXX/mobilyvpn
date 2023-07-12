@@ -20,33 +20,63 @@
       }
 ,
 {
-         "name": "01-AIS-SOCIAL-TH",
-         "url": "/DO6+Ba5587JtHmjLpltwyycI7uZDX0i/0HeQKO6SP6iq4esu3lCeYQQj0M1GFoxT3UhMY+51cuh1yENn0UZPnfIwMjq6vm4NRG37A=="
+         "name": "02-AIS-GAMING-TH",
+         "url": "QU6/rYcw+YeW+o6D8f1gmM89miL4XLRGtaZyOVrPfTWOJmQsdyBbD6+LyU/8z2QhAc+205+OnpWQy+vrjexDU4K1HzKfAGKfXRqEzQ=="
       }
 ,
 {
-         "name": "01-DTAC-SOCIAL-TH",
-         "url": "IKs4Vcj2qd47is2POJ1yJJsEMwwctjrVOXOvm9GiqgUVXSxxlGnEoDdMOhuk7Mrn4BhTEmFnxKbcAsd2cehDFJi7vXE3ROOedId4SA=="
+         "name": "02-DTAC-GAMING-TH",
+         "url": "ugUNi0l8Msb1NNk2SqVbmI8jlMi7vJ+g7/2ljCOvHEHSJllkWZXTCF+V2Q0F5WF/sgAQJTJfV9/LIP+3YD0PWB0BiwV0YXvoDgciPiRZ8WI="
       }
 ,
 {
-         "name": "01-TRUE-SOCIAL-TH",
-         "url": "THfH4HTFV7IRGapzKjlYXXOVz8bFwc2RvJH9i8CzJbjjp3YgV14rkzWVrDRjV+HfhKGMDri/jV+XGtyNmx5Z6CV4k1b3XAc8Ioa+GA=="
+         "name": "02-TRUE-GAMING-TH",
+         "url": "Nqe1dGX1q6cOsHvZDBdtXt+p7DvSmzVGVU36+SjykzQRNlyLfF1uhGb18ecolSOUKhw31bvWBOcSLSGzepal1hPWlt37w5JO8MnYXNtcjAM="
       }
 ,
 {
-         "name": "01-AIS-YOUTUBE-TH",
-         "url": "wTKXtZwdVst+DQDOaH0myBVm5hZetD9J5oM/XzKpqEUv7BF66lm/I/Dw8E7MIbh0+CaLN5AA+HS1OBHtjeu61HBYSVpkyT79VditCBL+2uk="
+         "name": "03-AIS-GAMING-TH",
+         "url": "QU6/rYcw+YeW+o6D8f1gmM89miL4XLRGtaZyOVrPfTWOJmQsdyBbD6+LyU/8z2QhAc+205+OnpWQy+vrjexDU4K1HzKfAGKfXRqEzQ=="
       }
 ,
 {
-         "name": "01-DTAC-YOUTUBE-TH",
-         "url": "FwgvHl+zrqBsYatzOtZlNUXZ/KLIQDF1gUTY/Z2vfC1zJaaXxQkiLcWMDT9RqCv/iaQzqiHxOFMvfIzpiHO2bWlgbj+I5NdTmUx4gAlA2FY="
+         "name": "03-DTAC-GAMING-TH",
+         "url": "ugUNi0l8Msb1NNk2SqVbmI8jlMi7vJ+g7/2ljCOvHEHSJllkWZXTCF+V2Q0F5WF/sgAQJTJfV9/LIP+3YD0PWB0BiwV0YXvoDgciPiRZ8WI="
       }
 ,
 {
-         "name": "01-TRUE-YOUTUBE-TH",
-         "url": "iy7aaiTb5t4LkFSiDniuflN7eSWwzvcuf6AvfO7JzmROcJpNFJKDeeCz+r5kt1u3exj/wHb2WPv2WQu3p9OFbjvh14sUhU0z0rqTiOGsLtE="
+         "name": "03-TRUE-GAMING-TH",
+         "url": "Nqe1dGX1q6cOsHvZDBdtXt+p7DvSmzVGVU36+SjykzQRNlyLfF1uhGb18ecolSOUKhw31bvWBOcSLSGzepal1hPWlt37w5JO8MnYXNtcjAM="
+      }
+,
+{
+         "name": "04-AIS-GAMING-TH",
+         "url": "QU6/rYcw+YeW+o6D8f1gmM89miL4XLRGtaZyOVrPfTWOJmQsdyBbD6+LyU/8z2QhAc+205+OnpWQy+vrjexDU4K1HzKfAGKfXRqEzQ=="
+      }
+,
+{
+         "name": "04-DTAC-GAMING-TH",
+         "url": "ugUNi0l8Msb1NNk2SqVbmI8jlMi7vJ+g7/2ljCOvHEHSJllkWZXTCF+V2Q0F5WF/sgAQJTJfV9/LIP+3YD0PWB0BiwV0YXvoDgciPiRZ8WI="
+      }
+,
+{
+         "name": "04-TRUE-GAMING-TH",
+         "url": "Nqe1dGX1q6cOsHvZDBdtXt+p7DvSmzVGVU36+SjykzQRNlyLfF1uhGb18ecolSOUKhw31bvWBOcSLSGzepal1hPWlt37w5JO8MnYXNtcjAM="
+      }
+,
+{
+         "name": "05-AIS-GAMING-TH",
+         "url": "QU6/rYcw+YeW+o6D8f1gmM89miL4XLRGtaZyOVrPfTWOJmQsdyBbD6+LyU/8z2QhAc+205+OnpWQy+vrjexDU4K1HzKfAGKfXRqEzQ=="
+      }
+,
+{
+         "name": "05-DTAC-GAMING-TH",
+         "url": "ugUNi0l8Msb1NNk2SqVbmI8jlMi7vJ+g7/2ljCOvHEHSJllkWZXTCF+V2Q0F5WF/sgAQJTJfV9/LIP+3YD0PWB0BiwV0YXvoDgciPiRZ8WI="
+      }
+,
+{
+         "name": "05-TRUE-GAMING-TH",
+         "url": "Nqe1dGX1q6cOsHvZDBdtXt+p7DvSmzVGVU36+SjykzQRNlyLfF1uhGb18ecolSOUKhw31bvWBOcSLSGzepal1hPWlt37w5JO8MnYXNtcjAM="
       }
 ,
 {
@@ -83,22 +113,26 @@
 
    ],
 "message":"
-🙏🏻แก้ไขระบบอัพไฟล์
-❗️รีเซิร์ฟเวอร์01:00น.ทุกๆวัน
+🐸รีเซิร์ฟเวอร์11:00น.ทุกๆวัน
 
-🔔Update 25/6/2023
-🐧ผู้พัฒนา:SURIYA SOODSANG
-🔊ระบบเพิ่มเซิร์ฟเวอร์อัตโนมัติ
-🌍ใช้งานได้ทุกรูปแบบ
+🐧serve เช่า VPN🐧
+[ใช้งานได้ทั้ง Android/ios/pc]
 
-⚠️รายละเอียดเซิร์ฟเวอร์
+วันละ088บาท
+เดือนละ25บาท
+
+💶ใช้แบบครอบครัว
+🔌เชื่อมต่อ 5 คน 
+=50บาท/เดือน
+🔌เชื่อมต่อ 10 คน 
+=100บาท/เดือน
+
+📦รายละเอียดเซิร์ฟเวอร์
 ●ONLINE[เช่า][ใช้งานทั่วไป+เล่นเกม]
 ●NET[เช่า][ใช้งานทั่วไป+เล่นเกม]
 ●GAMING[เฉพาะเกมเท่านั้น]
-●SOCIAL[ใช้งานทั่วไป]
-●YOUTUBE[ใช้งานทั่วไป]
 
-💻รองรับการใช้งานทุกเครือข่าย
+🌻รองรับการใช้งานทุกเครือข่าย
 📗Ais PRO AIS play
 📕True FREE NO pro
 📘Dtac FREE NO pro
@@ -112,5 +146,5 @@
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":10
+   "version":11
 }
