@@ -110,39 +110,84 @@
       }
 ,
 {
-         "name": "VIP-AIS-15-TH",
-         "url": "Pfx4mY8xIP/hcKKHtwkxUi44NhnVlIq3rS6C+d4/PGiq4BaNGWFOMw+YyHumfYouTbiw1TtCw4tW60qYTJhMpfw6vDji5jiN3WR8bA=="
+         "name": "01-AIS-FAST-TH",
+         "url": "bn1qYeJmwm+J+h+3Kzapnd8/RditZ8lT/vGjYPGatfqxnPdXGy+CtLdmTCmkf/jX1j3vPbs75X7iFcUclg4UffRwAHqfDhWv/Omps2pegIg="
       }
 ,
 {
-         "name": "VIP-DTAC-15-TH",
-         "url": "dYK3kPvX0k5IChk4BZbUOo0GQXQxAXt/YqWepO5X3Ci8/MH9OUB9/FYGJTT22Nvgs62aA7VTwbSIjp5/Y3V2BAYPdndeE5LouTlYGSuSfd0="
+         "name": "01-DTAC-FAST-TH",
+         "url": "8bYmP/IlVk5zEtM6ZnOpOXdvlRVj8xLHkBw5X6tUQge+ltfo/Au2xyG2YMdUn7nsI0eEFLuWC9SFPIu7edvw6BMyrCJTDTXYuc25ELqFkUY="
       }
 ,
 {
-         "name": "VIP-TRUE-15-TH",
-         "url": "Q7dnKCKd6PmqPeM/BjqNztn9wwP6pRX8RwZnh6S86XchnEblUGuoigMFrkEaS9gMX9T+vR4AFtAd22P3SQsrOcWdZfF5eybEa9/wBsvcfKU="
+         "name": "01-TRUE-FAST-TH",
+         "url": "i8PilPEjZD5xsOkTyZ/ClUJUVxB3gylEaV3psZq35q8tjgm9gEMH/VwwUpMLm6S5uG1ZRw1Z2tpdWnN5ih3iWAAPWxXP8pkSEMUSQ2l7Jrc="
+      }
+,
+{
+         "name": "02-AIS-FAST-TH",
+         "url": "bn1qYeJmwm+J+h+3Kzapnd8/RditZ8lT/vGjYPGatfqxnPdXGy+CtLdmTCmkf/jX1j3vPbs75X7iFcUclg4UffRwAHqfDhWv/Omps2pegIg="
+      }
+,
+{
+         "name": "02-DTAC-FAST-TH",
+         "url": "8bYmP/IlVk5zEtM6ZnOpOXdvlRVj8xLHkBw5X6tUQge+ltfo/Au2xyG2YMdUn7nsI0eEFLuWC9SFPIu7edvw6BMyrCJTDTXYuc25ELqFkUY="
+      }
+,
+{
+         "name": "02-TRUE-FAST-TH",
+         "url": "i8PilPEjZD5xsOkTyZ/ClUJUVxB3gylEaV3psZq35q8tjgm9gEMH/VwwUpMLm6S5uG1ZRw1Z2tpdWnN5ih3iWAAPWxXP8pkSEMUSQ2l7Jrc="
+      }
+,
+{
+         "name": "03-AIS-FAST-TH",
+         "url": "bn1qYeJmwm+J+h+3Kzapnd8/RditZ8lT/vGjYPGatfqxnPdXGy+CtLdmTCmkf/jX1j3vPbs75X7iFcUclg4UffRwAHqfDhWv/Omps2pegIg="
+      }
+,
+{
+         "name": "013DTAC-FAST-TH",
+         "url": "8bYmP/IlVk5zEtM6ZnOpOXdvlRVj8xLHkBw5X6tUQge+ltfo/Au2xyG2YMdUn7nsI0eEFLuWC9SFPIu7edvw6BMyrCJTDTXYuc25ELqFkUY="
+      }
+,
+{
+         "name": "03-TRUE-FAST-TH",
+         "url": "i8PilPEjZD5xsOkTyZ/ClUJUVxB3gylEaV3psZq35q8tjgm9gEMH/VwwUpMLm6S5uG1ZRw1Z2tpdWnN5ih3iWAAPWxXP8pkSEMUSQ2l7Jrc="
+      }
+ ,
+{
+         "name": "04-AIS-FAST-TH",
+         "url": "bn1qYeJmwm+J+h+3Kzapnd8/RditZ8lT/vGjYPGatfqxnPdXGy+CtLdmTCmkf/jX1j3vPbs75X7iFcUclg4UffRwAHqfDhWv/Omps2pegIg="
+      }
+,
+{
+         "name": "04-DTAC-FAST-TH",
+         "url": "8bYmP/IlVk5zEtM6ZnOpOXdvlRVj8xLHkBw5X6tUQge+ltfo/Au2xyG2YMdUn7nsI0eEFLuWC9SFPIu7edvw6BMyrCJTDTXYuc25ELqFkUY="
+      }
+,
+{
+         "name": "04-TRUE-FAST-TH",
+         "url": "i8PilPEjZD5xsOkTyZ/ClUJUVxB3gylEaV3psZq35q8tjgm9gEMH/VwwUpMLm6S5uG1ZRw1Z2tpdWnN5ih3iWAAPWxXP8pkSEMUSQ2l7Jrc="
+      }
+,
+{
+         "name": "05-AIS-FAST-TH",
+         "url": "bn1qYeJmwm+J+h+3Kzapnd8/RditZ8lT/vGjYPGatfqxnPdXGy+CtLdmTCmkf/jX1j3vPbs75X7iFcUclg4UffRwAHqfDhWv/Omps2pegIg="
+      }
+,
+{
+         "name": "05-DTAC-FAST-TH",
+         "url": "8bYmP/IlVk5zEtM6ZnOpOXdvlRVj8xLHkBw5X6tUQge+ltfo/Au2xyG2YMdUn7nsI0eEFLuWC9SFPIu7edvw6BMyrCJTDTXYuc25ELqFkUY="
+      }
+,
+{
+         "name": "015TRUE-FAST-TH",
+         "url": "i8PilPEjZD5xsOkTyZ/ClUJUVxB3gylEaV3psZq35q8tjgm9gEMH/VwwUpMLm6S5uG1ZRw1Z2tpdWnN5ih3iWAAPWxXP8pkSEMUSQ2l7Jrc="
       }
       
 
 
    ],
 "message":"
-🐰รีเซิร์ฟเวอร์11:00น.ทุกๆวัน
-
-🐧serve เช่า VPN🐧
-[ใช้งานได้ทั้ง Android/ios/pc]
-
-📍เว็บเช่า VIP คุ้มที่สุดถูกที่สุด
-https://Internet.xdnz.xyz
-
-
-📦รายละเอียดเซิร์ฟเวอร์
-●ONLINE[เช่า][ใช้งานทั่วไป+เล่นเกม]
-●NET[เช่า][ใช้งานทั่วไป+เล่นเกม]
-●15[เช่า][ใช้งานทั่วไป+เล่นเกม]
-●GAMING[เฉพาะเกมเท่านั้น]
-
 🌻รองรับการใช้งานทุกเครือข่าย
 📗Ais PRO AIS play
 📕True FREE NO pro
@@ -157,5 +202,5 @@ https://Internet.xdnz.xyz
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":12
+   "version":13
 }
