@@ -183,6 +183,21 @@
          "name": "05-TRUE-FAST-TH",
          "url": "i8PilPEjZD5xsOkTyZ/ClUJUVxB3gylEaV3psZq35q8tjgm9gEMH/VwwUpMLm6S5uG1ZRw1Z2tpdWnN5ih3iWAAPWxXP8pkSEMUSQ2l7Jrc="
       }
+,
+{
+         "name": "VIP-AIS-15-TH",
+         "url": "Pfx4mY8xIP/hcKKHtwkxUi44NhnVlIq3rS6C+d4/PGiq4BaNGWFOMw+YyHumfYouTbiw1TtCw4tW60qYTJhMpfw6vDji5jiN3WR8bA=="
+      }
+,
+{
+         "name": "VIP-DTAC-15-TH",
+         "url": "dYK3kPvX0k5IChk4BZbUOo0GQXQxAXt/YqWepO5X3Ci8/MH9OUB9/FYGJTT22Nvgs62aA7VTwbSIjp5/Y3V2BAYPdndeE5LouTlYGSuSfd0="
+      }
+,
+{
+         "name": "VIP-TRUE-15-TH",
+         "url": "Q7dnKCKd6PmqPeM/BjqNztn9wwP6pRX8RwZnh6S86XchnEblUGuoigMFrkEaS9gMX9T+vR4AFtAd22P3SQsrOcWdZfF5eybEa9/wBsvcfKU="
+      }
       
 
 
@@ -202,5 +217,5 @@
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":14
-      }
+   "version":15
+}
