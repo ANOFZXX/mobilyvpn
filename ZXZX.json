@@ -5,217 +5,78 @@
 
 
 {
-         "name": "01-AIS-GAMING-TH",
-         "url": "QU6/rYcw+YeW+o6D8f1gmM89miL4XLRGtaZyOVrPfTWOJmQsdyBbD6+LyU/8z2QhAc+205+OnpWQy+vrjexDU4K1HzKfAGKfXRqEzQ=="
+         "name": "FREE-AIS-MOBILE-TH",
+         "url": "ZfTFvMIfGqOfkyJUBHatFXyW7320NCvPw9fAAIoZGH2jnp552vTgOR4Qt6lD0DMi/CVivscAyuQwgsfudWb/E6g18Rilbn5q"
       }
 ,
 {
-         "name": "01-DTAC-GAMING-TH",
-         "url": "ugUNi0l8Msb1NNk2SqVbmI8jlMi7vJ+g7/2ljCOvHEHSJllkWZXTCF+V2Q0F5WF/sgAQJTJfV9/LIP+3YD0PWB0BiwV0YXvoDgciPiRZ8WI="
+         "name": "FREE-DTAC-MOBILE-TH",
+         "url": "8RGAcu+vLBgvIW/m8nlgBrsnF11LUDDMCBSBmwCvlmaa9hI0kzYKpCdyAX48uoMT49ttNNlmRt6yqYO22zX9UJmSomDcUp/s"
       }
 ,
 {
-         "name": "01-TRUE-GAMING-TH",
-         "url": "Nqe1dGX1q6cOsHvZDBdtXt+p7DvSmzVGVU36+SjykzQRNlyLfF1uhGb18ecolSOUKhw31bvWBOcSLSGzepal1hPWlt37w5JO8MnYXNtcjAM="
+         "name": "FREE-TRUE-MOBILE-TH",
+         "url": "aYtc5o5or01kGG4xF+N+cdnVPnlcjPY7Yeb3jCSwcJy++FGalOXdm74PSpJVMQ1bvXguSBwJcsNHPKGt2E7RpROIIF78GbmX"
       }
-,
-{
-         "name": "02-AIS-GAMING-TH",
-         "url": "QU6/rYcw+YeW+o6D8f1gmM89miL4XLRGtaZyOVrPfTWOJmQsdyBbD6+LyU/8z2QhAc+205+OnpWQy+vrjexDU4K1HzKfAGKfXRqEzQ=="
-      }
-,
-{
-         "name": "02-DTAC-GAMING-TH",
-         "url": "ugUNi0l8Msb1NNk2SqVbmI8jlMi7vJ+g7/2ljCOvHEHSJllkWZXTCF+V2Q0F5WF/sgAQJTJfV9/LIP+3YD0PWB0BiwV0YXvoDgciPiRZ8WI="
-      }
-,
-{
-         "name": "02-TRUE-GAMING-TH",
-         "url": "Nqe1dGX1q6cOsHvZDBdtXt+p7DvSmzVGVU36+SjykzQRNlyLfF1uhGb18ecolSOUKhw31bvWBOcSLSGzepal1hPWlt37w5JO8MnYXNtcjAM="
-      }
-,
-{
-         "name": "03-AIS-GAMING-TH",
-         "url": "QU6/rYcw+YeW+o6D8f1gmM89miL4XLRGtaZyOVrPfTWOJmQsdyBbD6+LyU/8z2QhAc+205+OnpWQy+vrjexDU4K1HzKfAGKfXRqEzQ=="
-      }
-,
-{
-         "name": "03-DTAC-GAMING-TH",
-         "url": "ugUNi0l8Msb1NNk2SqVbmI8jlMi7vJ+g7/2ljCOvHEHSJllkWZXTCF+V2Q0F5WF/sgAQJTJfV9/LIP+3YD0PWB0BiwV0YXvoDgciPiRZ8WI="
-      }
-,
-{
-         "name": "03-TRUE-GAMING-TH",
-         "url": "Nqe1dGX1q6cOsHvZDBdtXt+p7DvSmzVGVU36+SjykzQRNlyLfF1uhGb18ecolSOUKhw31bvWBOcSLSGzepal1hPWlt37w5JO8MnYXNtcjAM="
-      }
-,
-{
-         "name": "04-AIS-GAMING-TH",
-         "url": "QU6/rYcw+YeW+o6D8f1gmM89miL4XLRGtaZyOVrPfTWOJmQsdyBbD6+LyU/8z2QhAc+205+OnpWQy+vrjexDU4K1HzKfAGKfXRqEzQ=="
-      }
-,
-{
-         "name": "04-DTAC-GAMING-TH",
-         "url": "ugUNi0l8Msb1NNk2SqVbmI8jlMi7vJ+g7/2ljCOvHEHSJllkWZXTCF+V2Q0F5WF/sgAQJTJfV9/LIP+3YD0PWB0BiwV0YXvoDgciPiRZ8WI="
-      }
-,
-{
-         "name": "04-TRUE-GAMING-TH",
-         "url": "Nqe1dGX1q6cOsHvZDBdtXt+p7DvSmzVGVU36+SjykzQRNlyLfF1uhGb18ecolSOUKhw31bvWBOcSLSGzepal1hPWlt37w5JO8MnYXNtcjAM="
-      }
-,
-{
-         "name": "05-AIS-GAMING-TH",
-         "url": "QU6/rYcw+YeW+o6D8f1gmM89miL4XLRGtaZyOVrPfTWOJmQsdyBbD6+LyU/8z2QhAc+205+OnpWQy+vrjexDU4K1HzKfAGKfXRqEzQ=="
-      }
-,
-{
-         "name": "05-DTAC-GAMING-TH",
-         "url": "ugUNi0l8Msb1NNk2SqVbmI8jlMi7vJ+g7/2ljCOvHEHSJllkWZXTCF+V2Q0F5WF/sgAQJTJfV9/LIP+3YD0PWB0BiwV0YXvoDgciPiRZ8WI="
-      }
-,
-{
-         "name": "05-TRUE-GAMING-TH",
-         "url": "Nqe1dGX1q6cOsHvZDBdtXt+p7DvSmzVGVU36+SjykzQRNlyLfF1uhGb18ecolSOUKhw31bvWBOcSLSGzepal1hPWlt37w5JO8MnYXNtcjAM="
-      }
-,
-{
-         "name": "VIP-AIS-ONLINE-TH",
-         "url": "O0xxQTHF7ncG1U3XlTRM+YYv6tIo0+07IK4X9Y/Zldr1KbVb9urMa4DoNYVtZWZMe988z2YYJmwHhQQbYX+cA8G5fPAl01hA6kzN1A=="
-      }
-,
-{
-         "name": "VIP-DTAC-ONLINE-TH",
-         "url": "XzNIImx1IvydeHDil2g2FkRybTcKGtTJh3dLGke8BwJ5Ih1/OQmwmwDyRVqoRn01/nMtNKz9OofZXi8naPaaCM0TXglcTVCCTAnbKQ=="
-      }
-,
-{
-         "name": "VIP-TRUE-ONLINE-TH",
-         "url": "+w0rz2tBCvYoEV0NuNOrML26RW2utOU9P85GpLfcyaP+GUw2BoDK8vPHWP5xDf308998Rrw3zzi1Yz9yqTFCRSAIuGN9dsP5m/b2fg=="
-      }
-,
-{
-         "name": "VIP-AIS-NET-TH",
-         "url": "+EMJX3GMeOl7tQD24XJ/Mm5OECfbdeV9S8u/79WlAEBMdemU2hHLBaUkJgrRrPbv8YDWEwFSKmvOwin/63BPmXyUZlZRHxjlnqRs0A=="
-      }
-,
-{
-         "name": "VIP-DTAC-NET-TH",
-         "url": "u85uNvAjyvygIRlcgHlcTU6RddlNvuVlc+od/YB/x+dnjeluo6YShlIPjlLlthAkcH4Z37FM0e9mUjFvgEsK+UoWlnGIYGKqtfz4zg=="
-      }
-,
-{
-         "name": "VIP-TRUE-NET-TH",
-         "url": "hHmUQbP8D78Y3MfwnQwbRSe+O0QqkRNQ9065bznKfekeORtlEg1BMsnRUCfrd6kpnyXUHZVLly9vj59nLoQNPV/ZlKrz5IPspv2VFg=="
-      }
-,
-{
-         "name": "01-AIS-FAST-TH",
-         "url": "bn1qYeJmwm+J+h+3Kzapnd8/RditZ8lT/vGjYPGatfqxnPdXGy+CtLdmTCmkf/jX1j3vPbs75X7iFcUclg4UffRwAHqfDhWv/Omps2pegIg="
-      }
-,
-{
-         "name": "01-DTAC-FAST-TH",
-         "url": "8bYmP/IlVk5zEtM6ZnOpOXdvlRVj8xLHkBw5X6tUQge+ltfo/Au2xyG2YMdUn7nsI0eEFLuWC9SFPIu7edvw6BMyrCJTDTXYuc25ELqFkUY="
-      }
-,
-{
-         "name": "01-TRUE-FAST-TH",
-         "url": "i8PilPEjZD5xsOkTyZ/ClUJUVxB3gylEaV3psZq35q8tjgm9gEMH/VwwUpMLm6S5uG1ZRw1Z2tpdWnN5ih3iWAAPWxXP8pkSEMUSQ2l7Jrc="
-      }
-,
-{
-         "name": "02-AIS-FAST-TH",
-         "url": "bn1qYeJmwm+J+h+3Kzapnd8/RditZ8lT/vGjYPGatfqxnPdXGy+CtLdmTCmkf/jX1j3vPbs75X7iFcUclg4UffRwAHqfDhWv/Omps2pegIg="
-      }
-,
-{
-         "name": "02-DTAC-FAST-TH",
-         "url": "8bYmP/IlVk5zEtM6ZnOpOXdvlRVj8xLHkBw5X6tUQge+ltfo/Au2xyG2YMdUn7nsI0eEFLuWC9SFPIu7edvw6BMyrCJTDTXYuc25ELqFkUY="
-      }
-,
-{
-         "name": "02-TRUE-FAST-TH",
-         "url": "i8PilPEjZD5xsOkTyZ/ClUJUVxB3gylEaV3psZq35q8tjgm9gEMH/VwwUpMLm6S5uG1ZRw1Z2tpdWnN5ih3iWAAPWxXP8pkSEMUSQ2l7Jrc="
-      }
-,
-{
-         "name": "03-AIS-FAST-TH",
-         "url": "bn1qYeJmwm+J+h+3Kzapnd8/RditZ8lT/vGjYPGatfqxnPdXGy+CtLdmTCmkf/jX1j3vPbs75X7iFcUclg4UffRwAHqfDhWv/Omps2pegIg="
-      }
-,
-{
-         "name": "03-DTAC-FAST-TH",
-         "url": "8bYmP/IlVk5zEtM6ZnOpOXdvlRVj8xLHkBw5X6tUQge+ltfo/Au2xyG2YMdUn7nsI0eEFLuWC9SFPIu7edvw6BMyrCJTDTXYuc25ELqFkUY="
-      }
-,
-{
-         "name": "03-TRUE-FAST-TH",
-         "url": "i8PilPEjZD5xsOkTyZ/ClUJUVxB3gylEaV3psZq35q8tjgm9gEMH/VwwUpMLm6S5uG1ZRw1Z2tpdWnN5ih3iWAAPWxXP8pkSEMUSQ2l7Jrc="
-      }
- ,
-{
-         "name": "04-AIS-FAST-TH",
-         "url": "bn1qYeJmwm+J+h+3Kzapnd8/RditZ8lT/vGjYPGatfqxnPdXGy+CtLdmTCmkf/jX1j3vPbs75X7iFcUclg4UffRwAHqfDhWv/Omps2pegIg="
-      }
-,
-{
-         "name": "04-DTAC-FAST-TH",
-         "url": "8bYmP/IlVk5zEtM6ZnOpOXdvlRVj8xLHkBw5X6tUQge+ltfo/Au2xyG2YMdUn7nsI0eEFLuWC9SFPIu7edvw6BMyrCJTDTXYuc25ELqFkUY="
-      }
-,
-{
-         "name": "04-TRUE-FAST-TH",
-         "url": "i8PilPEjZD5xsOkTyZ/ClUJUVxB3gylEaV3psZq35q8tjgm9gEMH/VwwUpMLm6S5uG1ZRw1Z2tpdWnN5ih3iWAAPWxXP8pkSEMUSQ2l7Jrc="
-      }
-,
-{
-         "name": "05-AIS-FAST-TH",
-         "url": "bn1qYeJmwm+J+h+3Kzapnd8/RditZ8lT/vGjYPGatfqxnPdXGy+CtLdmTCmkf/jX1j3vPbs75X7iFcUclg4UffRwAHqfDhWv/Omps2pegIg="
-      }
-,
-{
-         "name": "05-DTAC-FAST-TH",
-         "url": "8bYmP/IlVk5zEtM6ZnOpOXdvlRVj8xLHkBw5X6tUQge+ltfo/Au2xyG2YMdUn7nsI0eEFLuWC9SFPIu7edvw6BMyrCJTDTXYuc25ELqFkUY="
-      }
-,
-{
-         "name": "05-TRUE-FAST-TH",
-         "url": "i8PilPEjZD5xsOkTyZ/ClUJUVxB3gylEaV3psZq35q8tjgm9gEMH/VwwUpMLm6S5uG1ZRw1Z2tpdWnN5ih3iWAAPWxXP8pkSEMUSQ2l7Jrc="
-      }
-,
-{
-         "name": "VIP-AIS-15-TH",
-         "url": "Pfx4mY8xIP/hcKKHtwkxUi44NhnVlIq3rS6C+d4/PGiq4BaNGWFOMw+YyHumfYouTbiw1TtCw4tW60qYTJhMpfw6vDji5jiN3WR8bA=="
-      }
-,
-{
-         "name": "VIP-DTAC-15-TH",
-         "url": "dYK3kPvX0k5IChk4BZbUOo0GQXQxAXt/YqWepO5X3Ci8/MH9OUB9/FYGJTT22Nvgs62aA7VTwbSIjp5/Y3V2BAYPdndeE5LouTlYGSuSfd0="
-      }
-,
-{
-         "name": "VIP-TRUE-15-TH",
-         "url": "Q7dnKCKd6PmqPeM/BjqNztn9wwP6pRX8RwZnh6S86XchnEblUGuoigMFrkEaS9gMX9T+vR4AFtAd22P3SQsrOcWdZfF5eybEa9/wBsvcfKU="
-      }
-      
 
 
    ],
 "message":"
-🌻รองรับการใช้งานทุกเครือข่าย
-📗Ais PRO AIS play
-📕True FREE NO pro
-📘Dtac FREE NO pro
+🛠โปรดอ่านสักนิดนะครับ
+[สามารถเลื่อนขึ้นลงได้ครับ]
+📁เซิร์ฟเวอร์ FREE-TRUE-MOBILE-TH [ฟรี]
 
-📌strength 
-●ปกปิดตัวตนของคุณ
-●ไม่เก็บข้อมูลส่วนตัวไดๆ
-●ไม่มีการดึงข้อมูล
 
-🤍ขอให้สนุกกับการใช้งานครับ
+[ในไปกรอกใส่ตามช่องได้เลยนะครับ]
+#แนะนำให้แค๊ปหน้าจอไว้น้า
+🔏ชื่อผู้ใช้ : FREE30DAY
+🔏รหัสผ่าน : 0001
+❌️หมดวันที่ 28 / 12 /2033
 
+
+🫰🏻🤍โปรเสริมที่ต้องใช้
+#แนะนำให้แค๊ปหน้าจอไว้น้า
+
+🍣A I S #แนะนำให้แค๊ปหน้าจอไว้น้า
+
+💼สมัครโปรเสริม 64Kbps+Ais เพย์
+ถ้าสมัครโปรนี้แล้วให้เลือกใช้ไฟล์ "Ais+64Kb-เพย์"
+ค่าสมัครโปรโมชั่น 30 บาท / 30 วัน 
+(รวมภาษี 31.03 บาท)
+
+🚥วิธีกดสมัคร *777*7067# 📞
+
+ใช้คู่กับโปร Ais Play
+ค่าสมัครโปรโมชั่น 9 บาท / 1 วัน
+วิธีกดสมัคร *777*7310*123456# 📞
+ค่าสมัครโปรโมชั่น 19 บาท / 7 วัน
+วิธีกดสมัคร *777*7311*123456# 📞
+ค่าสมัครโปรโมชั่น 59 บาท / 30 วัน
+วิธีกดสมัคร *777*885*123456# 📞
+
+🍣D T A C #แนะนำให้แค๊ปหน้าจอไว้น้า
+
+🌈สมัครโปรเสริม แฮปปี้ไลน์
+
+ค่าสมัครโปรโมชั่น 49 บาท / 30 วัน (รวมภาษี 52.43 บาท)
+
+☄️วิธีกดสมัคร *104*777# 📞
+เฉพาะโปรนี้ต้องใช้คู่กับอินเทอร์เน็ตกันเน็ตรั่ว
+ค่าสมัครโปรโมชั่น 20 บาท / 30 วัน
+วิธีกดสมัคร *117*30# 📞
+
+🍣T R U E #แนะนำให้แค๊ปหน้าจอไว้น้า
+
+🥃สมัครโปรโมชั่นเสริม ยูทูป
+
+ค่าสมัครโปรโมชั่น 9.63 บาท / 1 วัน / 500Mb
+วิธีกดสมัคร *900*3965# 📞
+ค่าสมัครโปรโมชั่น 20.33 บาท / 7 วัน / 2.5Gb
+วิธีกดสมัคร *900*3966# 📞
+ค่าสมัครโปรโมชั่น 63.13 บาท / 30 วัน / 7.5Gb
+วิธีกดสมัคร *900*3967# 📞
+สมัครแล้ว เชื่อมต่อVPN เล่นอินเตอร์เน็ตแรงไม่จำกัด
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":15
+   "version":16
 }
